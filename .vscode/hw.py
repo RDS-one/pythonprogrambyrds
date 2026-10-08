@@ -1,0 +1,11 @@
+start=input(f"your good name sir: ")
+chemistry=input("your marks in chemistry :")
+physics=input("your marks in physics:")
+maths=input("your marks in maths:")
+print(f"addition of {chemistry} and {physics} and {maths} is {int(chemistry)+int(physics)+int(maths)}")
+
+new=input("enter your name: ")
+pps=input("your marks in pps: ")
+em=input("your marks in em: ")
+iks=input("your marks in iks:")
+print(f"addtion of {pps} and {em} and {iks} is int")

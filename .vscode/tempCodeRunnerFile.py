@@ -1,0 +1,6 @@
+student_name=input("enter your name: ")
+chemistry=input("enter your chemistry marks:")
+physics=input("enter your physics marks:")
+maths=input("enter your maths marks :")
+print(f"the addition of {maths}+{physics}+{chemistry} is {int(maths)+int(chemistry)+int(physics)}")
+print("thank for using our software!!hope u had a great day")

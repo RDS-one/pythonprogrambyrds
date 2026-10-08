@@ -1,0 +1,1 @@
+start=input(f"your good {name}:")
